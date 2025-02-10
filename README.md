@@ -36,7 +36,7 @@
 ---
 
 ## 🖥️ Environment Setup 
-[macOS/Linux](#macOS/linus) |  [Windows](#windows-machine)  
+[🍎 macOS/Linux](#-macOS/linus) |  [Windows](#-windows-machine)  
 
 ### 🍎 macOS/Linux Rust Installation
 ```bash
