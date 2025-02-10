@@ -17,7 +17,7 @@
 
 # Table of Contents
  1. 📜 [Prerequisites](#prerequisites) 
- 2. 🖥️ [Environment Setup](#environment-setup) 
+ 2. 🖥️ [Environment Setup](#-environment-setup) 
  3. 💳 [Wallet Configuration](#wallet-configuration)
  4. 🔗 [Compilation](#compilation)
  5. 🚀 [Deployment](#deployment)
@@ -36,6 +36,7 @@
 ---
 
 ## 🖥️ Environment Setup 
+
 [macOS/Linux](#macOS/linus) |  [Windows](#windows-machine)  
 
 ### 🍎 macOS/Linux Rust Installation
